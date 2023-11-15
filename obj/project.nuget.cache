@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4mnDVN9DGJIoj+Sa5wtGWpN6BLw1vxZCRiXoykX8kt3e29Szdc3aselFRcVkJhBHzLkhIlhY716Nv5tH+x8szw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mathieu Morier\\Documents\\GitHub\\SOEN357-FinancialHealthChecker\\FinancialHealthChecker\\FinancialHealthChecker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mathieu Morier\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
