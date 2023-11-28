@@ -1,10 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "7+Dm/x9jDtCemRJIMTnu8bxB8GpeVBA8rLyuMN/7fHpK0mTK2pvMgNLRQD+rvfjExr4CFaxFhKwPAzwIv20Pkw==",
+  "dgSpecHash": "cfTsbSpQhYxoH1BgYM0w5tztYIJOYkXipj9pVWCU+GTBZD5EucW1Hl9VHfaQ5hVu+C/9KhPrmL/XRyBAoOssgA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mathieu Morier\\Documents\\GitHub\\FinancialHealthChecker\\FinancialHealthChecker.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Mathieu Morier\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+    "C:\\Users\\Mathieu Morier\\.nuget\\packages\\betalgo.openai\\7.4.1\\betalgo.openai.7.4.1.nupkg.sha512",
+    "C:\\Users\\Mathieu Morier\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mathieu Morier\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mathieu Morier\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mathieu Morier\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mathieu Morier\\.nuget\\packages\\microsoft.extensions.http\\6.0.0\\microsoft.extensions.http.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mathieu Morier\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mathieu Morier\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mathieu Morier\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mathieu Morier\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\microsoft.extensions.options.configurationextensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mathieu Morier\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mathieu Morier\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\Mathieu Morier\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mathieu Morier\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

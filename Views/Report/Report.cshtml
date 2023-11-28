@@ -1,0 +1,11 @@
+﻿@model OpenAI.ObjectModels.ResponseModels.CompletionCreateResponse
+
+@{
+    ViewData["Title"] = "Report Page";
+    var openAI = ViewData["OpenAI"] as string;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Model Data: @openAI</p> <!-- Access properties of the model here -->
+</div>

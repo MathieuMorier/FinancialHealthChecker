@@ -50,3 +50,5 @@ C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\obj\Debug\net6.0
 C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\obj\Debug\net6.0\FinancialHealthChecker.pdb
 C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\obj\Debug\net6.0\FinancialHealthChecker.genruntimeconfig.cache
 C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\obj\Debug\net6.0\ref\FinancialHealthChecker.dll
+C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\bin\Debug\net6.0\OpenAI.dll
+C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\obj\Debug\net6.0\FinancialHealthChecker.csproj.CopyComplete
