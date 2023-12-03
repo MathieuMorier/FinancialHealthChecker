@@ -2,7 +2,7 @@
 
 ## Overview
 Financial Health Checker is a web application built using ASP.NET, designed to help users analyze and understand their financial health.
-Hosted on Azure at [https://financialhealthchecker.azurewebsites.net/](https://financialhealthchecker.azurewebsites.net/),
+Hosted on Azure at https://financialhealthchecker.azurewebsites.net,
 it provides a user-friendly interface for financial data input and analysis.
 
 ## Running Locally
