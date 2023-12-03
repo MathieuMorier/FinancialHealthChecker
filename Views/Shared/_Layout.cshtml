@@ -34,7 +34,7 @@
     <link rel="stylesheet" href="~/FinancialHealthChecker.styles.css" asp-append-version="true" />
 
 
-    @RenderSection("Head", required: false)
+    @RenderSection("AdditionalStyles", required: false)
 </head>
 <body>
     <header>
@@ -130,7 +130,7 @@
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
-
+    @RenderSection("AdditionalScripts", required: false)
 
 </body>
 </html>

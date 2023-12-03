@@ -1,5 +1,122 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
+﻿@{
+    // Your view's Razor code and data goes here
+}
+
+<div style="background-image: url('@Url.Content("~/quiz/img/money.jpg")'); background-size: cover; background-position: center; background-repeat: no-repeat; height: 100vh; position: relative;">
+    <div class="row d-flex justify-content-center align-items-center margin" style="margin-top: 50px; position: absolute; top: 50px; width: 100%;">
+        <div class="col-md-8">
+            <form id="regForm" asp-controller="Report" asp-action="Report" method="post">
+                <h1 id="register">Financial Questionnaire</h1>
+                <div class="all-steps" id="all-steps"> 
+                    <span class="step"><i class="fa"></i></span>
+                    <span class="step"><i class="fa"></i></span>
+                    <span class="step"><i class="fa"></i></span>
+                    <span class="step"><i class="fa"></i></span>
+                    <span class="step"><i class="fa"></i></span>
+                    <span class="step"><i class="fa"></i></span>
+                    <span class="step"><i class="fa"></i></span>
+                    <span class="step"><i class="fa"></i></span>
+                    <span class="step"><i class="fa"></i></span>
+                    <span class="step"><i class="fa"></i></span>
+                    <span class="step"><i class="fa"></i></span>
+                    <span class="step"><i class="fa"></i></span>
+                </div>
+
+                <div class="tab">
+                    <h6>What's your name?</h6>
+                    <p>
+                        <input placeholder="Write your answer here" oninput="this.className = ''" name="Name"></p>
+                    
+                </div>
+
+                <div class="tab">
+                    <h6>What's your country?</h6>
+                    <p><input placeholder="Write your answer here" oninput="this.className = ''" name="Country"></p>
+                    
+                </div>
+
+                <div class="tab">
+                    <h6>What are your key short-term and long-term financial goals?</h6>
+                    <p><input placeholder="Write your answer here" oninput="this.className = ''" name="FinancialGoals"></p>
+                </div>
+
+                <div class="tab">
+                    <h6>What's your current income, and is it stable?</h6>
+                    <p><input placeholder="Write your answer here" oninput="this.className = ''" name="IncomeStability"></p>
+                </div>
+
+                <div class="tab">
+                    <h6>Do you have any debts? If so, what type and how much?</h6>
+                    <p><input placeholder="Write your answer here" oninput="this.className = ''" name="DebtDetails"></p>
+                </div>
+
+                <div class="tab">
+                    <h6>How much do you save regularly, and how much is in your emergency fund?</h6>
+                    <p><input placeholder="Write your answer here" oninput="this.className = ''" name="SavingsAmount"></p>
+                </div>
+
+                <div class="tab">
+                    <h6>What experience do you have with investments?</h6>
+                    <p><input placeholder="Write your answer here" oninput="this.className = ''" name="InvestmentExperience"></p>
+                </div>
+
+                <div class="tab">
+                    <h6>Would you describe your risk tolerance as low, medium, or high?</h6>
+                    <p><input placeholder="Write your answer here" oninput="this.className = ''" name="RiskTolerance"></p>
+                </div>
+
+                <div class="tab">
+                    <h6>What insurance policies do you have?</h6>
+                    <p><input placeholder="Write your answer here" oninput="this.className = ''" name="InsuranceCoverage"></p>
+                </div>
+
+                <div class="tab">
+                    <h6>What are your retirement plans and expected retirement age?</h6>
+                    <p><input placeholder="Write your answer here" oninput="this.className = ''" name="RetirementPlans"></p>
+                </div>
+
+                <div class="tab">
+                    <h6>Any specific financial challenges you're facing?</h6>
+                    <p><input placeholder="Write your answer here" oninput="this.className = ''" name="FinancialChallenges"></p>
+                </div>
+
+                <div class="tab">
+                    <h6>How do you currently manage your finances?</h6>
+                    <p><input placeholder="Write your answer here" oninput="this.className = ''" name="FinancialManagement"></p>
+                </div>
+
+                <div class="thanks-message text-center" id="text-message">
+                    <button type="submit" id="submitBtn" style="background-color: blue; color: white; padding: 10px 20px; font-size: 16px; border: none; border-radius: 5px; cursor: pointer;">Generate Report</button>
+                </div>
+
+
+                <div style="overflow:auto;" id="nextprevious">
+                    <div style="float:right;">
+                        <button type="button" id="prevBtn" onclick="nextPrev(-1)"><i class="fa fa-angle-double-left"></i></button> 
+                        <button type="button" id="nextBtn" onclick="nextPrev(1)"><i class="fa fa-angle-double-right"></i></button> </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () {
+        var form = document.getElementById('regForm'); // Replace 'regForm' with your form's ID
+        form.addEventListener('keypress', function (event) {
+            if (event.keyCode === 13) { // 13 is the key code for Enter key
+                event.preventDefault(); // Prevent the default action (form submission)
+                return false;
+            }
+        });
+    });
+</script>
+
+
+    @section AdditionalStyles {
+    <link href="~/quiz/css/style.css" rel="stylesheet" type="text/css" />
+}
+
+    @section AdditionalScripts {
+    <script src="~/quiz/js/script.js"></script>
 }

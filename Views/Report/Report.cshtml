@@ -1,11 +1,27 @@
-﻿@model OpenAI.ObjectModels.ResponseModels.CompletionCreateResponse
-
-@{
+﻿@{
     ViewData["Title"] = "Report Page";
-    var openAI = ViewData["OpenAI"] as string;
+    
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Model Data: @openAI</p> <!-- Access properties of the model here -->
-</div>
+@{
+    var aiResponseHtml = TempData["OpenAI"] as string;
+}
+
+@if (!string.IsNullOrEmpty(aiResponseHtml))
+{
+    @Html.Raw(aiResponseHtml)
+}
+
+<head>
+
+    <!-- Bootstrap CSS CDN -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+
+<!-- Bootstrap JS, Popper.js, and jQuery CDN -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.7.8/dist/umd/popper.min.js"></script>
+
+
+
+
