@@ -38,7 +38,7 @@ namespace FinancialHealthChecker.Controllers
                             </div>
                         </div> 
 
-                            Give financial advice and guidance based on the following answerS to this questionnaire :
+                            Act like a financial adviser, give financial advice and guidance based on the following answers to this questionnaire :
 
                             1. Financial Goals: {profile.FinancialGoals}
                             2. Income Stability: {profile.IncomeStability}

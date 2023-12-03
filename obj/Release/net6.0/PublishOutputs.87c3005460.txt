@@ -1,0 +1,8 @@
+C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\obj\Release\net6.0\PubTmp\Out\FinancialHealthChecker.exe
+C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\obj\Release\net6.0\PubTmp\Out\FinancialHealthChecker.dll
+C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\obj\Release\net6.0\PubTmp\Out\FinancialHealthChecker.deps.json
+C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\obj\Release\net6.0\PubTmp\Out\FinancialHealthChecker.runtimeconfig.json
+C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\obj\Release\net6.0\PubTmp\Out\FinancialHealthChecker.pdb
+C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\obj\Release\net6.0\PubTmp\Out\OpenAI.dll
