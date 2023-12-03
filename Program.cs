@@ -1,7 +1,15 @@
+using Microsoft.Extensions.DependencyInjection;
+using OpenAI.Managers;
+using OpenAI;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddSingleton<OpenAIService>(provider => new OpenAIService(new OpenAiOptions
+{
+    ApiKey = builder.Configuration["OpenAIServiceOptions:ApiKey"] // Load API key from configuration
+}));
 
 var app = builder.Build();
 
