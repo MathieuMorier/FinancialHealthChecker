@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< Updated upstream
   "Hash": "3wjfTSTtaagIHaT5UBgGbQAR8q0gxxNBn/8tfsKCIN8=",
-=======
-  "Hash": "Nw/uj2lDAFU/Vg5ulxu/8SrhTrAcxVMpKUO3+3TL6VA=",
->>>>>>> Stashed changes
   "Source": "FinancialHealthChecker",
   "BasePath": "_content/FinancialHealthChecker",
   "Mode": "Default",
@@ -89,7 +85,6 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-<<<<<<< Updated upstream
       "Identity": "C:\\Users\\Mathieu Morier\\Documents\\GitHub\\FinancialHealthChecker\\wwwroot\\homepage\\css\\bootstrap.min.css",
       "SourceId": "FinancialHealthChecker",
       "SourceType": "Discovered",
@@ -2270,12 +2265,6 @@
       "SourceId": "FinancialHealthChecker",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Mathieu Morier\\Documents\\GitHub\\FinancialHealthChecker\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\Mathieu Morier\\Documents\\GitHub\\FinancialHealthChecker\\wwwroot\\js\\site.js",
-      "SourceId": "FinancialHealthChecker",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mathieu Morier\\Documents\\GitHub\\FinancialHealthChecker\\wwwroot\\",
->>>>>>> Stashed changes
       "BasePath": "_content/FinancialHealthChecker",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -3256,7 +3245,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-<<<<<<< Updated upstream
     },
     {
       "Identity": "C:\\Users\\Mathieu Morier\\Documents\\GitHub\\FinancialHealthChecker\\wwwroot\\quiz\\css\\style.css",
@@ -3308,8 +3296,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\quiz\\js\\script.js"
-=======
->>>>>>> Stashed changes
     }
   ]
 }

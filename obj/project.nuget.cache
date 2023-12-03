@@ -1,6 +1,5 @@
 {
   "version": 2,
-<<<<<<< Updated upstream
   "dgSpecHash": "cfTsbSpQhYxoH1BgYM0w5tztYIJOYkXipj9pVWCU+GTBZD5EucW1Hl9VHfaQ5hVu+C/9KhPrmL/XRyBAoOssgA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mathieu Morier\\Documents\\GitHub\\FinancialHealthChecker\\FinancialHealthChecker.csproj",
@@ -19,13 +18,6 @@
     "C:\\Users\\Mathieu Morier\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\Mathieu Morier\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\Mathieu Morier\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
-=======
-  "dgSpecHash": "7+Dm/x9jDtCemRJIMTnu8bxB8GpeVBA8rLyuMN/7fHpK0mTK2pvMgNLRQD+rvfjExr4CFaxFhKwPAzwIv20Pkw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Mathieu Morier\\Documents\\GitHub\\FinancialHealthChecker\\FinancialHealthChecker.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Mathieu Morier\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
->>>>>>> Stashed changes
   ],
   "logs": [
     {
