@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 C:\Users\Mathieu Morier\Documents\GitHub\SOEN357-FinancialHealthChecker\FinancialHealthChecker\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\Mathieu Morier\Documents\GitHub\SOEN357-FinancialHealthChecker\FinancialHealthChecker\bin\Debug\net6.0\appsettings.json
 C:\Users\Mathieu Morier\Documents\GitHub\SOEN357-FinancialHealthChecker\FinancialHealthChecker\bin\Debug\net6.0\FinancialHealthChecker.staticwebassets.runtime.json
@@ -24,6 +25,65 @@ C:\Users\Mathieu Morier\Documents\GitHub\SOEN357-FinancialHealthChecker\Financia
 C:\Users\Mathieu Morier\Documents\GitHub\SOEN357-FinancialHealthChecker\FinancialHealthChecker\obj\Debug\net6.0\FinancialHealthChecker.pdb
 C:\Users\Mathieu Morier\Documents\GitHub\SOEN357-FinancialHealthChecker\FinancialHealthChecker\obj\Debug\net6.0\FinancialHealthChecker.genruntimeconfig.cache
 C:\Users\Mathieu Morier\Documents\GitHub\SOEN357-FinancialHealthChecker\FinancialHealthChecker\obj\Debug\net6.0\ref\FinancialHealthChecker.dll
+=======
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/bin/Debug/net6.0/appsettings.json
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/bin/Debug/net6.0/FinancialHealthChecker.staticwebassets.runtime.json
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/bin/Debug/net6.0/FinancialHealthChecker.exe
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/bin/Debug/net6.0/FinancialHealthChecker.deps.json
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/bin/Debug/net6.0/FinancialHealthChecker.runtimeconfig.json
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/bin/Debug/net6.0/FinancialHealthChecker.dll
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/bin/Debug/net6.0/FinancialHealthChecker.pdb
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.csproj.AssemblyReference.cache
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.AssemblyInfoInputs.cache
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.AssemblyInfo.cs
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.csproj.CoreCompileInputs.cache
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.RazorAssemblyInfo.cache
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.RazorAssemblyInfo.cs
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/obj/Debug/net6.0/scopedcss/bundle/FinancialHealthChecker.styles.css
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/obj/Debug/net6.0/scopedcss/projectbundle/FinancialHealthChecker.bundle.scp.css
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.dll
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/obj/Debug/net6.0/refint/FinancialHealthChecker.dll
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.pdb
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.genruntimeconfig.cache
+C:/Users/Mathieu Morier/Documents/GitHub/SOEN357-FinancialHealthChecker/FinancialHealthChecker/obj/Debug/net6.0/ref/FinancialHealthChecker.dll
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/bin/Debug/net6.0/appsettings.Development.json
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/bin/Debug/net6.0/appsettings.json
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/bin/Debug/net6.0/FinancialHealthChecker.staticwebassets.runtime.json
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/bin/Debug/net6.0/FinancialHealthChecker
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/bin/Debug/net6.0/FinancialHealthChecker.deps.json
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/bin/Debug/net6.0/FinancialHealthChecker.runtimeconfig.json
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/bin/Debug/net6.0/FinancialHealthChecker.dll
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/bin/Debug/net6.0/FinancialHealthChecker.pdb
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.csproj.AssemblyReference.cache
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.AssemblyInfoInputs.cache
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.AssemblyInfo.cs
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.csproj.CoreCompileInputs.cache
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.MvcApplicationPartsAssemblyInfo.cache
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.RazorAssemblyInfo.cache
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.RazorAssemblyInfo.cs
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/staticwebassets/msbuild.FinancialHealthChecker.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/staticwebassets/msbuild.build.FinancialHealthChecker.props
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.FinancialHealthChecker.props
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.FinancialHealthChecker.props
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/staticwebassets.build.json
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/staticwebassets.development.json
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/scopedcss/bundle/FinancialHealthChecker.styles.css
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/scopedcss/projectbundle/FinancialHealthChecker.bundle.scp.css
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.dll
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/refint/FinancialHealthChecker.dll
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.pdb
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/FinancialHealthChecker.genruntimeconfig.cache
+/Users/quannguyen/RiderProjects/FinancialHealthChecker/obj/Debug/net6.0/ref/FinancialHealthChecker.dll
+>>>>>>> Stashed changes
 C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\bin\Debug\net6.0\appsettings.json
 C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\bin\Debug\net6.0\FinancialHealthChecker.staticwebassets.runtime.json
@@ -50,5 +110,8 @@ C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\obj\Debug\net6.0
 C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\obj\Debug\net6.0\FinancialHealthChecker.pdb
 C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\obj\Debug\net6.0\FinancialHealthChecker.genruntimeconfig.cache
 C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\obj\Debug\net6.0\ref\FinancialHealthChecker.dll
+<<<<<<< Updated upstream
 C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\bin\Debug\net6.0\OpenAI.dll
 C:\Users\Mathieu Morier\Documents\GitHub\FinancialHealthChecker\obj\Debug\net6.0\FinancialHealthChecker.csproj.CopyComplete
+=======
+>>>>>>> Stashed changes
